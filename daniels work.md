@@ -22,3 +22,22 @@ c. Transformation of Streaming Services
 The early stages of streaming services started in the late 1990s and early  2000s starting out as physical media such as VHS tapes, DVDs, and CDs. The early 2000s saw the rise of streaming services such as Netflix which went from a DVD-by-mail service into an online powerhouse in 2007, offering downloadable films and tv shows on demand. For music, streaming services like, sound cloud and  spotify quickly rose in popularity allowing for music to be streamed legally instead of downloading them. By 2010s, streaming services had become mainstream with companies such as Disney+, Amazone Prime Video, and Hulu capitalized on the growth for the demand for streaming content. 
  
 https://www.globalmediajournal.com/open-access/the-evolution-and-impact-of-streaming-services-changing-the-media-landscape.php?aid=95170 
+
+d. Development of Instant Messaging  
+ 
+ 
+instant messaging became a thing in the late 80s, with the first publicly available instant messenger, which was the IRC (Internet Relay Chat), and it spread globally quickly in 1989. This was taking place in so called “chat-rooms” with real time online conversations. Instant messeging truly became popular when BBM was introduced to Blackberry devices inn 2005. The 2000s had a major breakthrough with apps like Skype which introduced free voice and video calling, Whatsapp(2009) that allowed to chat over the internet instead of SMS, Discord(2015) expanded the idea of calling and texting and included things like communities and channels. This concept was greatly used by gamers and groups as it was free, easy to use, and offerd more then aything at its time for its targeted audiance. 
+ 
+https://www.tech.gov.sg/technews/history-of-instant-messaging/ 
+
+ 
+
+2. Business and Societal Viewpoints 
+
+a. Business Perspective 
+
+From a business perspective, the technological progress has allowed for companies to now advertise their products easier then before. Social media became a main source for a lot of companies, with some reaching an average revenue up to 40% by just advertising online. Companies can also use personalized advertising towards its users by collecting data, which is a smart way of getting sales. An example of that would be TikToks algorithm helps brands to gain user data and lower costs compared to traditional advertising, 
+
+Streaming services also changed from one time payments to subscriptions, which allows the company to track their income more accurately. 
+ 
+https://sproutsocial.com/insights/impact-of-social-media-on-business/ 
