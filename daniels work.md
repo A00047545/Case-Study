@@ -41,3 +41,11 @@ From a business perspective, the technological progress has allowed for companie
 Streaming services also changed from one time payments to subscriptions, which allows the company to track their income more accurately. 
  
 https://sproutsocial.com/insights/impact-of-social-media-on-business/ 
+
+b. Societal Perspective 
+
+ 
+ 
+From a societal viewpoint, the evolution of technologies of the internet has brought people together all across the world but also influemced a lot off things. For exmaple, social media has influenced the fashion and food trends, world news and local events, political and community events. Social media also created a new type of marketing. On the other hand, this has also raised online concerns of privacy, misinformation being spread, and the mental health effects of the constant engagement people have. Looking into the future things like AR(augmented reality) and VR(virtual reality) will have a massive influence on how people engage online. Not only that but also AI and machine learning will also shape the way the users experience, to a more in depth personalized experience. 
+ 
+https://www.globalmediajournal.com/open-access/the-impact-of-social-media-on-modern-communication-evolution-and-future-prospects.php?aid=95171 
