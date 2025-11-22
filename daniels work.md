@@ -49,3 +49,8 @@ b. Societal Perspective
 From a societal viewpoint, the evolution of technologies of the internet has brought people together all across the world but also influemced a lot off things. For exmaple, social media has influenced the fashion and food trends, world news and local events, political and community events. Social media also created a new type of marketing. On the other hand, this has also raised online concerns of privacy, misinformation being spread, and the mental health effects of the constant engagement people have. Looking into the future things like AR(augmented reality) and VR(virtual reality) will have a massive influence on how people engage online. Not only that but also AI and machine learning will also shape the way the users experience, to a more in depth personalized experience. 
  
 https://www.globalmediajournal.com/open-access/the-impact-of-social-media-on-modern-communication-evolution-and-future-prospects.php?aid=95171 
+
+
+4. Conclusion 
+ 
+So in summary, the evolution of consumer technology from social media that went from MySpace to TikTok, Search Engines that evolved from Yahoo to AI-Powered searches, streaming services that went from simple DVDs to Netflix and instant messaging that became an everyday thing for most people. Each breakthrough has changed the way we live our daily life, from communication, entertainment, and sharing information. From a business viewpoint, the evolution has created new industries and economic opportunities. As from a societal viewpoint, they have improved global connectivity but at the same time introduced ethical problems about our privacy, misinformation, and mental health problems. 
