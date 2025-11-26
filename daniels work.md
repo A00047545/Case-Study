@@ -50,6 +50,11 @@ From a societal viewpoint, the evolution of technologies of the internet has bro
  
 https://www.globalmediajournal.com/open-access/the-impact-of-social-media-on-modern-communication-evolution-and-future-prospects.php?aid=95171 
 
+3. Ethical Implications and Proposed Improvements 
+
+https://link.springer.com/chapter/10.1007/978-3-031-83911-5_52 
+ 
+The rapid evolution of consumer technology has created many ethical issues. First, there is a risk of privacy and data protection. A lot of platforms and recommender systems collect and store your data without telling you to give you more personolized ads and recommendations. And while this can improve our expeirence, it should also raise our concerns and question if this is ethically the right thing to do. Secondly, AI powered searches can give us algorithmic bias and unfairness can lead to discrimination, if AI systems are trained on a small database it can lead to it favouring certain groups or content types, or apply harmful stereotypes. 
 
 4. Conclusion 
  
