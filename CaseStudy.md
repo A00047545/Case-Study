@@ -117,6 +117,14 @@
 
 ##### https://builtin.com/consumer-tech https://spectrum.ieee.org/consumer-electronics-timeline [Accessed on 27/11/2025]
 
+##### https://ourworldindata.org/rise-of-social-media [accessed on 13/11/2025]
 
+##### https://blogs.cornell.edu/info2040/2019/11/15/the-rise-of-social-media/ [accessed on 13/11/2025]
 
+##### https://www.britannica.com/technology/computer/The-rise-of-social-media [accessed on 15/11/2025]
 
+##### https://www.globalmediajournal.com/peer-reviewed/the-evolution-and-impact-of-streaming-services-changing-the-media-landscape-95170.html [accessed on 24/11/2025]
+
+##### https://answersocrates.com/blog/history-of-search-engines/ [accessed on 21/11/2025]
+
+##### https://web.stanford.edu/class/cs54n/handouts/24-GooglePageRankAlgorithm.pdf [accessed on 24/11/2025]
