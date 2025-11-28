@@ -92,7 +92,23 @@
 
 ##### https://www.irishtimes.com/ireland/education/2024/11/19/phone-pouches-what-happens-when-a-school-locks-its-students-mobiles-away/ Website [Accessed on 21/11/2025] 
 
-##### https://www.brownhealth.org/be-well/social-media-good-bad-and-ugly Website [Accessed on 21/11/2025]
+##### https://www.brownhealth.org/be-well/social-media-good-bad-and-ugly Website [Accessed on 25/11/2025]
+
+##### https://www.britannica.com/money/Steve-Jobs [Accessed on 25/11/2025]
+
+##### https://www.textline.com/blog/smartphone-history [Accessed on 25/11/2025]
+
+##### https://www.britannica.com/biography/Martin-Cooper [Accessed on 25/11/2025]
+
+##### https://www.encyclopedia.com/economics/encyclopedias-almanacs-transcripts-and-maps/history-internet-and-world-wide-web-www [Accessed on 25/11/2025]
+
+##### https://www.fcc.gov/media/radio/history-of-commercial-radio [Accessed on 25/11/2025]
+
+##### https://www.pbs.org/wgbh/aso/databank/entries/dt20ra.html [Accessed on 25/11/2025] 
+
+##### https://science.howstuffworks.com/innovation/inventions/who-invented-the-radio.htm [Accessed on 27/11/2025] 
+
+##### https://builtin.com/consumer-tech https://spectrum.ieee.org/consumer-electronics-timeline [Accessed on 27/11/2025]
 
 
 
